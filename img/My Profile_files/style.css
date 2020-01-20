@@ -1,0 +1,61 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    overflow-x:hidden !important;
+    background-color: whitesmoke;
+    margin-right: 0% ;
+    /* overflow-y: scroll !important; has to be scroll, not auto */
+    /* -webkit-overflow-scrolling: touch; */
+}
+.bg-dark {
+    background-color: wheat!important;
+    border-bottom: 2px solid coral;
+}
+.navbar-brand img {
+    height: 10vh;
+    width: 10vw;
+}
+.navbar-nav {
+    margin-right: 5vw;
+    padding: 2ex;
+    
+}
+.nav-link {
+    font-size: 30px;
+    color: coral !important;
+}
+.nav-item a.nav-link:hover {
+    border-bottom: 2px solid brown;
+    color:coral !important;
+}
+.img-fluid {
+    max-width: 200px !important;
+}
+.dropdown-item {
+    color: coral !important;
+}
+.carousel-item img {
+    height: 80vh;
+    margin-right: 0%;
+}
+h1,h2 {
+    color: coral;
+}
+p {
+    font-size: 18px;
+    color: brown;
+    text-align: justify;
+}
+.footer-section {
+    background-color: wheat;
+    border-top: 2px solid coral;
+    border-bottom-color: 2px solid coral;
+}
+.fa {
+    font-size: 2em;
+    padding: 1em;
+    color: chocolate;
+}
+.footer-section img {
+    width: 150px;
+    height: 150px;
+}
